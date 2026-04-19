@@ -58,9 +58,9 @@ Session_tracking o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Ja
 
 Session_Tracking2 o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/9c1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/9c2.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/9c2.png
 
-P10.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a2.png
+Application o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a2.png
 
-P10.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b2.png
+Result_app o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b2.png
 
 
 
