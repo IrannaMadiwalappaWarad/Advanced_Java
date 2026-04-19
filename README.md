@@ -62,10 +62,16 @@ Application o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/bl
 
 Result_app o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10b2.png
 
+Mysql_select.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/11a.png
 
+Mysql_Update.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/11b.png
 
-https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a1.png
+Retrive o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/11c1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/11c2.png
 
-https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a1.png
+Mysql_Delete.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12a.png
 
-https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/10a1.png
+Mysql_Query.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12b.png
+
+Emp_Query o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c2.png
+
+Delete_using_Jsp o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12d1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12d2.png
