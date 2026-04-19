@@ -72,6 +72,6 @@ Mysql_Delete.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_J
 
 Mysql_Query.java o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12b.png
 
-Emp_Query o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c2.png
+Emp_Query o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12c2.png
 
 Delete_using_Jsp o/p link: https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12d1.png & https://github.com/IrannaMadiwalappaWarad/Advanced_Java/blob/main/12d2.png
